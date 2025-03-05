@@ -348,7 +348,7 @@ document.getElementById('stopBtn').addEventListener('click', () => {
 
 // Event listener for Source Code button
 document.getElementById('sourceCodeBtn').addEventListener('click', () => {
-    window.open('https://github.com/Saket70/Sorting-Visualizer', '_blank');
+    window.open('https://github.com/AbhishekChorghade/Sorting_Visualizer', '_blank');
 });
 
 // Enhanced theme toggle with animation
